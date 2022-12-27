@@ -8,6 +8,6 @@ Hope you find interesing!
 * [Front](https://drive.google.com/drive/folders/1s0WMWv_JvnEn-eTlggFCUmEYfVbYalZF)
 * [Back](https://drive.google.com/drive/folders/1s0WMWv_JvnEn-eTlggFCUmEYfVbYalZF)
 ## Contact
-*_Email_: iaforns@gmail.com
-*_Phone_: 0422056198
-*_Address_: 77 South Old Head Road, Bondi Junction - Sydney - Australia
+* _Email_: iaforns@gmail.com
+* _Phone_: 0422056198
+* _Address_: 77 South Old Head Road, Bondi Junction - Sydney - Australia
