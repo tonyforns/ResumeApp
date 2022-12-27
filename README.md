@@ -10,4 +10,5 @@ Hope you find interesing!
 ## Contact
 * _Email_: iaforns@gmail.com
 * _Phone_: 0422056198
+* [Linkedin](https://www.linkedin.com/in/antonio-ignacio-forns-422000144/)
 * _Address_: 77 South Old Head Road, Bondi Junction - Sydney - Australia
