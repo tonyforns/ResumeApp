@@ -1,5 +1,5 @@
 # ResumeApp
-Hi! My name is Antonio Forns, 29 year old and I’m from Argentina. Since I was a child I was passionate about videogames and that moved me to study something that could introduce me more to that world so I graduated as a Computer Engineer on the [Universidad Nacional de Tucuman](http://www.unt.edu.ar/) and I found my second love, programming. I have never felt that I worked when I was coding, for me it is the opposite, I enjoy it and it is like playing. 
+Hi! My name is Antonio Forns, 29 years old and I’m from Argentina. Since I was a child I was passionate about videogames and that moved me to study something that could introduce me more to that world so I graduated as a Computer Engineer on the [Universidad Nacional de Tucuman](http://www.unt.edu.ar/) and I found my second love, programming. I have never felt that I worked when I was coding, for me it is the opposite, I enjoy it and it is like playing. 
 
 ## Mini Game Zip
 [Download](https://drive.google.com/file/d/1BY07Fn9kwhvlXG20Ve6jDEuVpa7JhA5o/view?usp=sharing) and lunch the Presentation.exe to know more about my skills
