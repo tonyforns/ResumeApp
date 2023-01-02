@@ -1,7 +1,6 @@
 # ResumeApp
-Welcome! My name is Antonio Ignacio Forns, 29 year old. Im a Computer Engineer Graduated on the [Universidad Nacional de Tucuman](http://www.unt.edu.ar/). 
-My passion are videogames and programming. This is a resume thinked to be different. It is in continue development in my free time.
-Hope you find interesting!
+Hi! My name is Antonio Forns, 29 year old and I’m from Argentina. Since I was a child I was passionate about videogames and that moved me to study something that could introduce me more to that world so I graduated as a Computer Engineer on the [Universidad Nacional de Tucuman](http://www.unt.edu.ar/) and I found my second love, programming. I have never felt that I worked when I was coding, for me it is the opposite, I enjoy it and it is like playing. 
+
 ## Works Experience
 #### OneBitTech
 * Rol: Game Developer
